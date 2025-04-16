@@ -46,5 +46,5 @@ This project focuses on predicting Tesla's stock price movements using machine l
 
 ---
 
-🔗 **Follow me on GitHub**: [Your GitHub Profile](https://github.com/Aman4242)
+🔗 **Follow me on GitHub**: [My GitHub Profile](https://github.com/Aman4242)
 
