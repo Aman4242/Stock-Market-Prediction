@@ -21,7 +21,7 @@ This project focuses on predicting Tesla's stock price movements using machine l
 ## 🚀 How to Run the Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/Stock-Market-Prediction.git
+   git clone https://github.com/aman4242/Stock-Market-Prediction.git
    ```
 2. **Navigate to the Project Folder:**
    ```sh
